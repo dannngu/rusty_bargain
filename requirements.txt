@@ -1,0 +1,9 @@
+#  Requirements.txt
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+category_encoders
+catboost
